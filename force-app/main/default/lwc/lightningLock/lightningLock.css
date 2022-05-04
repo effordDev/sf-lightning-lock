@@ -5,6 +5,7 @@
      justify-content: center;
      align-items: center;
      z-index: -2;
+     margin: 45px;
 }
 
 .lock {
